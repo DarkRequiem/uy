@@ -7,7 +7,7 @@
 
 
 peach
-
+fruit
 apple 
 
 orange
